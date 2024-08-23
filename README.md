@@ -10,12 +10,12 @@ Click "Create repository".
 2. Set Up Git on Your Local Machine
 If you haven't already, you'll need to install Git on your computer and set up your GitHub account. Follow these steps:
 
-Install Git:
+**Install Git:**
 
 Windows: Download and install Git from git-scm.com.
 macOS: Use Homebrew: brew install git.
 Linux: Use your package manager, e.g., sudo apt-get install git on Ubuntu.
-Set Up Git:
+**Set Up Git:**
 
 Open a terminal (or Git Bash on Windows).
 Set your GitHub username: git config --global user.name "Your Name"
@@ -23,13 +23,13 @@ Set your GitHub email: git config --global user.email "your-email@example.com"
 3. Push Your Pygame Project to GitHub
 Navigate to Your Project Directory:
 
-Open a terminal and navigate to the directory where your Pygame project is located:
+**Open a terminal and navigate to the directory where your Pygame project is located:**
 bash
 Copy code
 cd path/to/your/project
 Initialize a Git Repository:
 
-Run the following command to initialize a Git repository in your project directory:
+**Run the following command to initialize a Git repository in your project directory:**
 bash
 Copy code
 git init
@@ -58,10 +58,10 @@ Push the code to the GitHub repository:
 bash
 Copy code
 git push -u origin master
-4. Verify Your Repository on GitHub
+**4. Verify Your Repository on GitHub**
 Go to your repository URL (e.g., https://github.com/your-username/your-repo-name).
 You should see your Pygame project files listed in the repository.
-5. Add a README (Optional)
+**5. Add a README (Optiona**l)
 Create a README.md file in your project directory to explain what your project is about, how to run it, and any other relevant information.
 Add, commit, and push the README.md file to GitHub:
 bash
@@ -175,10 +175,9 @@ Enhance the AI for both Pacman and the ghosts.
 Contributing
 Feel free to fork this project, submit issues, and contribute by submitting pull requests. Contributions are welcome!
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgements
+**License**
+None
+**Acknowledgements**
 Inspired by the classic Pacman game by Namco.
 Built using the Pygame library.
 markdown
